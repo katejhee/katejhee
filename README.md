@@ -33,9 +33,11 @@ Docker / AWS / CI/CD 환경 구축에 관심이 있습니다.
 하루의 기억조각 (사진, 텍스트, 메모)를 한 곳에 모아 AI가 하나의 카드로 만들어주는 앱
 
 - Spring Boot 기반 백엔드 개발
-- JWT 인증 구현
-- Docker 기반 환경 구성
-- GitHub Actions CI/CD 구축
+- Memory/Notification/Tag 기능 구현
+- 필터링 기능 구현
+
+  🔗 Repository:
+https://github.com/ReDay-GC/BE
 
 ---
 
@@ -51,7 +53,7 @@ Tech Stack:
 `Spring Boot` `JPA` `MySQL` `Docker` `AWS`
 
 🔗 Repository:
-https://github.com/조직명/레포명
+https://github.com/P-ProjectGC/BE
 
 ---
 
@@ -77,7 +79,7 @@ Tech Stack:
 `Spring Boot` `JPA` `MySQL` `Docker` `AWS`
 
 🔗 Repository:
-https://github.com/조직명/레포명
+https://github.com/Leets-Official/BookMark-BE
 
 ---
 
